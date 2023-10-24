@@ -2,15 +2,9 @@
 
 # About me
 First of all: call me Sasso, it's easier.
-I'm a passionate italian developer, currently based on France and attending 42 Nice.
-I can reassume my philosophy in one sentence: what we know is a drop, what we don't know is an ocean.
+I'm a passionate Italian developer, currently based in France and working as a C++ Software Engineer.
+I can reassume my philosophy in one sentence: what we know is a drop, and what we don't know is an ocean.
 Following that, I try to improve my knowledge every single day in every possible domain, especially coding.
-
-- 🔭 I’m currently working on [Leetcode](https://leetcode.com/) and low level.
-
-- 🌱 I’m currently learning **competitive programming** and **low level computing**
-
-- ⚡ Fun fact **There was a bear enlisted in the polish army who made it to the rank of Corporal. He also smoked, drank and carried weapons to the front during battles. His name was Wojtek.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
