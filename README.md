@@ -33,7 +33,7 @@ public:
 
     void sayHi() const
     {
-        std::cout << "Hello ! My name is" << name << "\nWelcome to my GitHub profile !" << std::endl;
+        std::println("Hello ! My name is {}\nWelcome to my GitHub profile !", name);
     }
 };
 
