@@ -11,7 +11,6 @@ Following that, I try to improve my knowledge every single day in every possible
 
 ## About Me
 ```cpp
-
 class SoftwareEngineer
 {
 
@@ -26,15 +25,14 @@ private:
 public:
     SoftwareEngineer() : name("Salvatore SPINA"),
                          role("Software Engineer"),
-                         expertises("C", "C++", "Python", "Algorithm & Data Structures", "Scripting"),
-                         proficiencies("Linux", "Git", "Docker", "Assembly", "Cybersecurity", "Agile"),
+                         expertises({"C", "C++", "Python", "Algorithm & Data Structures", "Scripting"}),
+                         proficiencies({"Linux", "Git", "Docker", "Assembly", "Cybersecurity", "Agile"}),
                          languageSpoken({"it_IT", "en_US", "fr_FR"}),
-                         interests("Animation", "C++", "Algorithm & Data Structures") {}
+                         interests({"Animation", "C++", "Algorithm & Data Structures"}) {}
 
     void sayHi() const
     {
-        std::cout << "Hello ! My name is" << name << "\nWelcome to my GitHub profile !" << std::endl;
+        std::cout << "Hello ! My name is " << name << "\nWelcome to my GitHub profile !" << std::endl;
     }
 };
-
 ```
