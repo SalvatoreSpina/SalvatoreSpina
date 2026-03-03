@@ -4,10 +4,13 @@
 
 First of all: call me Sasso, it's easier. Or pronounce the `E` in Salvatore, please.
 
-I'm a passionate Italian developer, currently based in France and working as a C++ Software Engineer.
+Senior C++ backend engineer focused on performance-critical systems.
 
-I can reassume my philosophy in one sentence: what we know is a drop, and what we don't know is an ocean.
-Following that, I try to improve my knowledge every single day in every possible domain, especially coding.
+I enjoy working close to the metal — profiling hot paths, optimizing CPU and memory usage, and designing scalable backend components in modern C++.
+
+Currently building production systems handling ~10k TPS, with measurable performance improvements in CPU and latency.
+
+Interests: high-performance computing, low-latency systems, clean architecture, and algorithmic problem solving.
 
 ## About Me
 ```cpp
